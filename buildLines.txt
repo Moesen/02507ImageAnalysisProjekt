@@ -1,0 +1,7 @@
+# Cmake line using MinGW which uses GNU
+cmake .. -G "MinGW Makefiles"
+
+# -j controls number of threads
+make -j8
+
+

@@ -1,0 +1,3 @@
+D:/GIT/ProjektArbejde/Practice/Futures/build/CMakeFiles/edit_cache.dir
+D:/GIT/ProjektArbejde/Practice/Futures/build/CMakeFiles/Main.dir
+D:/GIT/ProjektArbejde/Practice/Futures/build/CMakeFiles/rebuild_cache.dir

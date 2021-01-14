@@ -1,0 +1,14 @@
+Agenda for today:
+	Get code to compile
+	Get code to work in python
+	Get code to compile Andreas' example given on outlook.
+
+Notes for today:
+	Code took longer to get to work than expected.
+	Especially GLFW is giving me a hard time - annoying.
+	To get a better idea of how compiling and linking works, i will try to write a small program,
+	utilizing GLFW.
+
+Outcome of today:
+	Got some idea of what to do in the 3-week and bachelor
+	
